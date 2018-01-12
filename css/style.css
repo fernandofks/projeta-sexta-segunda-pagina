@@ -15,6 +15,9 @@ body {
     font-weight: bold;
 }
 
+#barra-de-busca{
+    
+}
 
 /* Style the content */
 .content {
@@ -23,4 +26,5 @@ body {
     text-align: center;
     height: 450px;
     vertical-align: middle;
+    padding-top: 6%;
 }

@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.header {
+    overflow: hidden;
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+/* Style the content */
+.content {
+    background-color: #ddd;
+    padding: 10px;
+}

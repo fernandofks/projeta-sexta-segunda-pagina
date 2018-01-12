@@ -11,7 +11,7 @@ body {
     background-color: white;
     color: black;
     text-align: center;
-    font-size: 60px;
+    font-size: 55px;
     font-weight: bold;
 }
 
@@ -20,4 +20,7 @@ body {
 .content {
     background-color: #ddd;
     padding: 10px;
+    text-align: center;
+    height: 450px;
+    vertical-align: middle;
 }
